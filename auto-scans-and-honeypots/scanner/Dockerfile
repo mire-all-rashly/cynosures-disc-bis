@@ -1,4 +1,4 @@
-FROM debian:testing
+FROM debian:testing-slim
 
 ARG START_POINT=/app
 
