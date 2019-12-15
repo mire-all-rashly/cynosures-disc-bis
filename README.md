@@ -1,2 +1,2 @@
 # cynosures-disc-bis
-A repo containing `cyber` related discussion/topic material
+A repo containing various topics/discussion material.
