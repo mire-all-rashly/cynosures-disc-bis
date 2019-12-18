@@ -3,7 +3,7 @@ Auto-scans and Honeypots
 (i.e., why performing credentialed scans on entire subnets can be bad).
 
 ## Technologies covered
-- [OpenCanary](https://opencanary.readthedocs.io/latest)
+- [OpenCanary](https://opencanary.readthedocs.io/en/latest/)
 
 ## Runtime Information
 Generally, this assumes from the source directory unless otherwise stated.
